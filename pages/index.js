@@ -638,8 +638,7 @@ export default function Home({ publications }) {
                     projects that solve real-world problems.
                   </p>
                   <p className="text-lg">
-                    Alongside my design and development work, I run a BA Media
-                    Production degree course and a corporate video production
+                    Alongside my design and development work, I write a blog on Tech and Sports at a 
                     company called{" "}
                     <a
                       href="https://themillenialnews.wordpress.com/"
@@ -660,7 +659,7 @@ export default function Home({ publications }) {
                   <Image
                     src="/headshot-with-frame-2.jpg"
                     className="overflow-hidden rounded-md"
-                    width={880}
+                    width={780}
                     height={880}
                     alt={"Denis Orina headshot"}
                   />
