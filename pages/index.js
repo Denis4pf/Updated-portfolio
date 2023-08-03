@@ -625,28 +625,28 @@ export default function Home({ publications }) {
                     designer and technical writer from Nairobi, Kenya.
                   </p>
                   <p className="text-lg">
-                    After building my first website aged thirteen, I knew I
+                    After building my first Portfolio website, I knew I
                     wanted to work with computers and technology, and I&apos;ve
                     never looked back.
                   </p>
                   <p className="text-lg">
-                    After graduating University with an Information Science degree, I joined a Bootcamp for a Software Development course where I graduated as a MERN stack Developer.
+                    After graduating University with an Information Science degree, I joined a Bootcamp for a Software Development course where I graduated as a Fullstack MERN Developer.
                   </p>
                   <p className="text-lg">
                     In recent years, I&apos;ve been focused on programming,
-                    building a solid Fullstack stack and creating exciting
+                    building a solid Fullstack and creating exciting
                     projects that solve real-world problems.
                   </p>
                   <p className="text-lg">
-                    Alongside my design and development work, I write a blog on Tech and Sports at a 
+                    Alongside my design and development work, I write blogs on Tech and Sports at a 
                     company called{" "}
                     <a
-                      href="https://themillenialnews.wordpress.com/"
+                      href="https://themillenialnews.wordpress.com/category/technology"
                       target="_blank"
                       className="underline-link"
                       rel="noreferrer"
                     >
-                      The Millenial news
+                      The Millenial News
                     </a>
                     , so I like to keep busy!
                   </p>
@@ -973,9 +973,9 @@ export default function Home({ publications }) {
                 float={`right-0`}
                 flexDirection={`flex-col lg:flex-row`}
                 imgWidth={"1366"}
-                imgHeight={"666"}
+                imgHeight={"665"}
                 imgSrc={"/projects/smylo.png"}
-                liveLink={"https://smylo.co/"}
+                 liveLink={"https://smylo.co/"}
                 repoLink={null}
                 stack={
                   <>
@@ -1152,7 +1152,7 @@ export default function Home({ publications }) {
                 imgHeight={"666"}
                 imgSrc={"/projects/profileme.png"}
                 liveLink={"https://profileme.dev"}
-                repoLink={"https://github.com/danielcranney/profileme.dev"}
+                repoLink={"https://github.com/Denis4pf/profileme.dev"}
                 stack={
                   <>
                     <Icon
@@ -1263,7 +1263,7 @@ export default function Home({ publications }) {
             <div className="flex flex-col-reverse w-full md:flex-row">
               <div className="w-full mb-4 md:pl-0 md:mb-0">
                 <p className="text-lg">
-                  I&apos;m currently available to get involved in new projects,
+                  I&apos;m currently available to get involved in collaborative and new projects,
                   so get in touch if you&apos;d like to work together.
                 </p>
                 <p className="text-lg">
@@ -1312,7 +1312,7 @@ export default function Home({ publications }) {
 
             <div className="flex flex-col items-start md:flex-row">
               <p className="w-auto mb-4 md:mb-0">
-                &copy; {new Date().getFullYear()} - Designed and built by Denis Orina
+                &copy; {new Date().getFullYear()} - Designed and built by Denis Orina 4PF
               </p>
 
               <div className="flex md:hidden">
