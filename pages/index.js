@@ -967,15 +967,15 @@ export default function Home({ publications }) {
             <div className="flex flex-col w-full mb-12">
               {/* Project One */}
               <FeaturedProjectCard
-                title={"Smylo"}
-                status={"Join the Waitlist"}
-                description={`Keep your life on track and never miss another important date again`}
+                title={"Mult Ecommerce Backend"}
+                status={"Register and use it for free"}
+                description={`This backend store`}
                 float={`right-0`}
                 flexDirection={`flex-col lg:flex-row`}
                 imgWidth={"1366"}
                 imgHeight={"665"}
-                imgSrc={"/projects/smylo.png"}
-                 liveLink={"https://smylo.co/"}
+                imgSrc={"/projects/smylo1.png"}
+                 liveLink={"https://habex-backend.vercel.app/91c8c390-349d-485b-aac5-e8fd3ef47ab3"}
                 repoLink={null}
                 stack={
                   <>
@@ -1063,15 +1063,15 @@ export default function Home({ publications }) {
               />
               {/* Project Two */}
               <FeaturedProjectCard
-                title={"ColorHub"}
-                status={"V2 Just Launched"}
-                description={`Find the perfect palette for your next perfect. pick it, preview it and paste it right into your code.`}
+                title={"Fitness Palace"}
+                status={"Web Application"}
+                description={`Fitness Palace is a web application that allows users book gym appointments with their preferred gym instructors according to their schedule from the comfort of your device. Users will be allowed to register and sign in after which they can view available workouts and instructors.`}
                 float={`right-0`}
                 flexDirection={`flex-col lg:flex-row-reverse`}
                 imgWidth={"1366"}
                 imgHeight={"666"}
                 imgSrc={"/projects/colorhub.png"}
-                liveLink={"https://colorhub.app/"}
+                liveLink={"https://fitness-palace-frontend.vercel.app/"}
                 repoLink={null}
                 stack={
                   <>
