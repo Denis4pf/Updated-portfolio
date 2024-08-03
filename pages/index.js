@@ -630,7 +630,7 @@ export default function Home({ publications }) {
                     never looked back.
                   </p>
                   <p className="text-lg">
-                    After graduating from University with an Information Science degree, I joined a Bootcamp for a Software Development course where I graduated as a Fullstack MERN Developer.
+                    After graduating from the University with an Information Science degree, I joined a Bootcamp for a Software Development course where I graduated as a Fullstack MERN Developer.
                   </p>
                   <p className="text-lg">
                     In recent years, I&apos;ve been focused on programming,
